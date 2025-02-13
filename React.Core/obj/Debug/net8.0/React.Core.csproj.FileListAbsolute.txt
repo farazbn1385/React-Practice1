@@ -1,0 +1,13 @@
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\bin\Debug\net8.0\React.Core.deps.json
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\bin\Debug\net8.0\React.Core.runtimeconfig.json
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\bin\Debug\net8.0\React.Core.dll
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\bin\Debug\net8.0\React.Core.pdb
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\obj\Debug\net8.0\React.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\obj\Debug\net8.0\React.Core.AssemblyInfoInputs.cache
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\obj\Debug\net8.0\React.Core.AssemblyInfo.cs
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\obj\Debug\net8.0\React.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\obj\Debug\net8.0\React.Core.dll
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\obj\Debug\net8.0\refint\React.Core.dll
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\obj\Debug\net8.0\React.Core.pdb
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\obj\Debug\net8.0\React.Core.genruntimeconfig.cache
+C:\Users\Mehrdad\source\repos\ReactApp1\React.Core\obj\Debug\net8.0\ref\React.Core.dll

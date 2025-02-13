@@ -1,0 +1,17 @@
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\bin\Debug\net8.0\REact.DAL.deps.json
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\bin\Debug\net8.0\REact.DAL.runtimeconfig.json
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\bin\Debug\net8.0\REact.DAL.dll
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\bin\Debug\net8.0\REact.DAL.pdb
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\bin\Debug\net8.0\React.Core.dll
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\bin\Debug\net8.0\React.Core.pdb
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\obj\Debug\net8.0\REact.DAL.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\obj\Debug\net8.0\REact.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\obj\Debug\net8.0\REact.DAL.AssemblyInfoInputs.cache
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\obj\Debug\net8.0\REact.DAL.AssemblyInfo.cs
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\obj\Debug\net8.0\REact.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\obj\Debug\net8.0\REact.DAL.csproj.Up2Date
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\obj\Debug\net8.0\REact.DAL.dll
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\obj\Debug\net8.0\refint\REact.DAL.dll
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\obj\Debug\net8.0\REact.DAL.pdb
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\obj\Debug\net8.0\REact.DAL.genruntimeconfig.cache
+C:\Users\Mehrdad\source\repos\ReactApp1\REact.DAL\obj\Debug\net8.0\ref\REact.DAL.dll

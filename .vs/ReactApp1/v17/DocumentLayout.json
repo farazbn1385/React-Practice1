@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mehrdad\\source\\repos\\ReactApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9096D-25F4-487F-8047-0E87489037AC}|reactapp1.client\\reactapp1.client.esproj|c:\\users\\mehrdad\\source\\repos\\reactapp1\\reactapp1.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{22A9096D-25F4-487F-8047-0E87489037AC}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9096D-25F4-487F-8047-0E87489037AC}|reactapp1.client\\reactapp1.client.esproj|c:\\users\\mehrdad\\source\\repos\\reactapp1\\reactapp1.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22A9096D-25F4-487F-8047-0E87489037AC}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9096D-25F4-487F-8047-0E87489037AC}|reactapp1.client\\reactapp1.client.esproj|c:\\users\\mehrdad\\source\\repos\\reactapp1\\reactapp1.client\\src\\components\\nav.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{22A9096D-25F4-487F-8047-0E87489037AC}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\components\\nav.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9096D-25F4-487F-8047-0E87489037AC}|reactapp1.client\\reactapp1.client.esproj|c:\\users\\mehrdad\\source\\repos\\reactapp1\\reactapp1.client\\src\\components\\infonav.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{22A9096D-25F4-487F-8047-0E87489037AC}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\components\\infonav.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9096D-25F4-487F-8047-0E87489037AC}|reactapp1.client\\reactapp1.client.esproj|c:\\users\\mehrdad\\source\\repos\\reactapp1\\reactapp1.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{22A9096D-25F4-487F-8047-0E87489037AC}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Mehrdad\\source\\repos\\ReactApp1\\reactapp1.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Mehrdad\\source\\repos\\ReactApp1\\reactapp1.client\\src\\App.jsx",
+              "RelativeToolTip": "reactapp1.client\\src\\App.jsx",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAAAPoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-29T18:44:41.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nav.jsx",
+              "DocumentMoniker": "C:\\Users\\Mehrdad\\source\\repos\\ReactApp1\\reactapp1.client\\src\\Components\\Nav.jsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\Components\\Nav.jsx",
+              "ToolTip": "C:\\Users\\Mehrdad\\source\\repos\\ReactApp1\\reactapp1.client\\src\\Components\\Nav.jsx",
+              "RelativeToolTip": "reactapp1.client\\src\\Components\\Nav.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-05T17:57:43.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfoNav.jsx",
+              "DocumentMoniker": "C:\\Users\\Mehrdad\\source\\repos\\ReactApp1\\reactapp1.client\\src\\Components\\InfoNav.jsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\Components\\InfoNav.jsx",
+              "ToolTip": "C:\\Users\\Mehrdad\\source\\repos\\ReactApp1\\reactapp1.client\\src\\Components\\InfoNav.jsx",
+              "RelativeToolTip": "reactapp1.client\\src\\Components\\InfoNav.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-05T16:57:11.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Mehrdad\\source\\repos\\ReactApp1\\reactapp1.client\\index.html",
+              "RelativeDocumentMoniker": "reactapp1.client\\index.html",
+              "ToolTip": "C:\\Users\\Mehrdad\\source\\repos\\ReactApp1\\reactapp1.client\\index.html",
+              "RelativeToolTip": "reactapp1.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-04T18:42:27.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Mehrdad\\source\\repos\\ReactApp1\\reactapp1.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\Mehrdad\\source\\repos\\ReactApp1\\reactapp1.client\\src\\main.jsx",
+              "RelativeToolTip": "reactapp1.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-29T19:11:57.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
